@@ -10,6 +10,7 @@ from rich import print_json
 from urllib.parse import urlparse, parse_qs
 
 
+
 """ 
 目前 PikPak 官方已经禁止给新注册的临时邮箱账号免费会员，但主流邮箱的新旧账号和临时邮箱旧账号仍然可以获取免费会员，具体为：
 （1）临时邮箱新账号注册无法获取免费会员，也无法通过做任务和受邀请（填写邀请码）获取免费会员，同时也无法给其他邀请用户免费会员。
